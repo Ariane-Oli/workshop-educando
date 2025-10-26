@@ -1,6 +1,6 @@
 package com.educandoweb.course.config;
 
-import com.educandoweb.course.adapters.ports.input.repositories.UserRepository;
+import com.educandoweb.course.adapters.ports.output.UserRepository;
 import com.educandoweb.course.domain.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
